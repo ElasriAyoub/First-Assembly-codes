@@ -8,13 +8,13 @@ Collection of Assembly codes we used for the INTEL8086.
 <br />
 <p align="center">
   <a href="https://github.com/ElasriAyoub">
-    <img src="/Memory.png" alt="Logo" width="700" height="550">
+    <img src="/MICRO-PROCESSEUR-PAGE-DE-GARDE.jpg" alt="Logo" width="2480" height="3508">
   </a>
 
-  <h3 align="center">ECG Signal Processing</h3>
+  <h3 align="center">INTEL 8086</h3>
 
   <p align="center">
-   Using ARDUINO and LabView!
+   Using EMU8086 and Assembly!
     <br />
     <a href="https://github.com/ElasriAyoub"><strong>Check all my projects</strong></a>
     <br />
@@ -31,5 +31,5 @@ Project Link: [https://https://github.com/ElasriAyoub/ECG-Signal-Processing-LabV
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/elasri-ayoub/
-[product-screenshot]: Demo/Smart-Parking.png
+[product-screenshot]: /MICRO-PROCESSEUR-PAGE-DE-GARDE.jpg
 
